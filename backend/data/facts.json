@@ -1,0 +1,187 @@
+
+{
+  "full_name": "Subham Das",
+  "name": "Subham",
+  "current_role": "AI Engineer",
+  "location": "Bengaluru, India",
+  "email": "dendzsubham@gmail.com",
+  "phone": "+91 8327785334",
+  "linkedin": "https://linkedin.com/in/subham-das-1b63b4120",
+  "github": "https://github.com/dendzsubham-ctrl",
+  "specialties": [
+    "Generative AI",
+    "Large Language Models (LLMs)",
+    "Machine Learning",
+    "Python Backend Development",
+    "FastAPI",
+    "RAG Systems",
+    "AI Application Development",
+    "Prompt Engineering"
+  ],
+  "years_experience": 8,
+  "professional_summary": "AI Engineer transitioning from 8 years of teaching experience, with hands-on experience building Generative AI applications using Python, FastAPI, Hugging Face Transformers, Whisper, Llama 3.1, LangChain, FAISS, ChromaDB, and PyTorch. Passionate about developing production-ready LLM applications and scalable AI systems.",
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "SQL"
+    ],
+    "machine_learning_and_ai": [
+      "Scikit-learn",
+      "PyTorch",
+      "Hugging Face Transformers",
+      "Llama 3",
+      "Whisper",
+      "LangChain",
+      "Retrieval-Augmented Generation (RAG)",
+      "Prompt Engineering"
+    ],
+    "vector_databases": [
+      "FAISS",
+      "ChromaDB",
+      "Pinecone"
+    ],
+    "backend_development": [
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [
+      "SQL"
+    ],
+    "ai_concepts": [
+      "Large Language Models",
+      "Speech Recognition",
+      "Text Summarization",
+      "Conversational Memory",
+      "Semantic Search",
+      "LLM Inference"
+    ]
+  },
+  "years_teaching_experience": 8,
+  "work_experience": [
+    {
+      "role": "Master Teacher / Online Educator",
+      "organization": "ODA Classes",
+      "start_date": "November 2023",
+      "end_date": "March 2026",
+      "responsibilities": [
+        "Delivered Chemistry lectures for students from Classes 6 to 12.",
+        "Created PowerPoint presentations for live classes.",
+        "Served as the single point of contact for test creation.",
+        "Used automation with limited resources to improve test reliability.",
+        "Taught tens of thousands of students.",
+        "Improved class averages and helped produce academic toppers."
+      ]
+    },
+    {
+      "role": "Online Educator - JEE/NEET",
+      "organization": "Jio Embibe",
+      "start_date": "April 2020",
+      "end_date": "November 2023",
+      "responsibilities": [
+        "Delivered live Chemistry classes through Embibe's website and YouTube channels.",
+        "Developed lakhs of questions and tests for JEE, NEET, and K-12 education.",
+        "Led a team of content developers.",
+        "Wrote and corrected scripts for hundreds of educational videos.",
+        "Conducted competitor product analysis.",
+        "Contributed to product development and vendor evaluation."
+      ]
+    },
+    {
+      "role": "IIT-JEE/NEET Chemistry Faculty",
+      "organization": "BASE Educational Services",
+      "start_date": "July 2018",
+      "end_date": "April 2020",
+      "responsibilities": [
+        "Taught Chemistry to IIT-JEE and NEET aspirants.",
+        "Delivered academic instruction and supported competitive examination preparation."
+      ]
+    },
+    {
+      "role": "Intern",
+      "organization": "Rourkela Steel Plant",
+      "start_date": "Summer 2017",
+      "end_date": "Summer 2017",
+      "responsibilities": [
+        "Completed an industrial internship at Rourkela Steel Plant."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Call Intelligence Backend",
+      "category": "Generative AI / Backend Development",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "Whisper",
+        "Llama 3.1",
+        "Hugging Face Transformers"
+      ],
+      "description": "AI-powered backend for call transcription and summarization.",
+      "features": [
+        "Developed REST APIs for audio uploads.",
+        "Implemented speech-to-text transcription using Whisper ASR.",
+        "Integrated Llama 3.1 for AI-generated meeting summaries.",
+        "Optimized inference for CPU execution with optional GPU acceleration."
+      ],
+      "github": "https://github.com/dendzsubham-ctrl/AI-Call-Intelligence",
+      "live_demo": "https://drive.google.com/file/d/1IbsPNibB32CoBzHhqADBg5MCT2r2K-aD/view?usp=sharing"
+    },
+    {
+      "name": "AI Mock Interview Platform",
+      "category": "Generative AI / Conversational AI",
+      "technologies": [
+        "Python",
+        "Streamlit",
+        "OpenAI GPT-4o"
+      ],
+      "description": "AI-powered mock interview platform that simulates personalized job interviews.",
+      "features": [
+        "Generated interview simulations based on candidate experience, skills, job role, and company.",
+        "Implemented real-time streaming responses.",
+        "Integrated conversational memory.",
+        "Implemented automated interview scoring and personalized feedback."
+      ],
+      "github": "https://github.com/dendzsubham-ctrl/interview-chatbot",
+      "live_demo": "https://interview-chatbot-ftgfhuzgocnvxwk7tgrf4f.streamlit.app/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Industrial Design Engineering",
+      "institution": "National Institute of Technology, Rourkela",
+      "year": "2018",
+      "grade": "6.98/10 CGPA"
+    },
+    {
+      "degree": "Class XII - Science",
+      "institution": "D.A.V. Public School, Unit 8, Bhubaneswar",
+      "year": "2014",
+      "grade": "93.6%"
+    },
+    {
+      "degree": "Class X",
+      "institution": "D.A.V. Public School, Unit 8, Bhubaneswar",
+      "year": "2012",
+      "grade": "10/10 CGPA"
+    }
+  ],
+  "achievements": [
+    "Received Medhabruti scholarship from the Government of Odisha.",
+    "Won and participated in college-level robotics competitions.",
+    "Won and hosted school-level quiz competitions.",
+    "Played college-level cricket tournaments.",
+    "Played amateur-level football and semi-professional football."
+  ],
+  "interests": [
+    "Artificial Intelligence",
+    "Generative AI",
+    "Machine Learning",
+    "Fitness",
+    "Literature",
+    "Football",
+    "Cricket",
+    "Robotics"
+  ],
+  "career_objective": "Build scalable, production-ready AI and Generative AI applications, specializing in LLM engineering, backend development, and intelligent AI systems."
+}

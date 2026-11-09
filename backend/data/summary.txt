@@ -1,0 +1,1 @@
+AI Engineer transitioning from 8 years of teaching experience, with hands-on experience building Generative AI applications using Python, FastAPI, Hugging Face Transformers, Whisper, Llama 3.1, LangChain, FAISS, ChromaDB, and PyTorch. Passionate about developing production-ready LLM applications and scalable AI systems.
